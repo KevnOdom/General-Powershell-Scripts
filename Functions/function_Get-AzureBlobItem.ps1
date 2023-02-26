@@ -9,8 +9,8 @@ function Get-AzureBlobItem {
             Works with PowerShell Core.
 
         .NOTES
-            Author: Aaron Parker
-            Twitter: @stealthpuppy
+            Author: 
+            Twitter: 
 
         .PARAMETER Url
             The Azure blob storage container URL. The container must be enabled for anonymous read access.
